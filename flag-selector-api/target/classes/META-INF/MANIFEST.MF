@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Flag Selector API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Neetu
+Implementation-Vendor-Id: io.test
+Build-Jdk: 1.8.0_231
+Implementation-URL: http://projects.spring.io/spring-boot/flag-selecto
+ r-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
